@@ -1,1 +1,1 @@
-![digital footprint? i'm wearing shoes!](image.png)
+<img src="image.png" width="300"/>
